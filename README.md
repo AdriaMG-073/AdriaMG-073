@@ -1,4 +1,4 @@
-## Heyo!
+## Hey there!
 I'm a guy from Catalonia studying to become a software developer, my main interests are game development and web design. I'm also into digital art and music production. More stuff coming soon ig.
 
 <!--
